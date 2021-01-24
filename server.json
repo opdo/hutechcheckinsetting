@@ -1,0 +1,12 @@
+[
+  {
+    "Name" : "Main server",
+    "URL" : "https://hutechcheckin.xyz",
+    "Default": true
+  },
+  {
+    "Name" : "Backup server",
+    "URL" : "https://opdo.vn",
+    "Default": false
+  },
+]
