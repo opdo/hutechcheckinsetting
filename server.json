@@ -1,6 +1,6 @@
 [
   {
-    "Name" : "Main server",
+    "Name" : "Production server",
     "URL" : "https://hutechcheckin.xyz",
     "Default": true
   },
@@ -9,4 +9,9 @@
     "URL" : "https://opdo.vn",
     "Default": false
   },
+  {
+    "Name" : "In-dev server",
+    "URL" : "https://opdo1.vn",
+    "Default": false
+  }
 ]
