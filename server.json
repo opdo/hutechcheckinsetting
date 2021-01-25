@@ -1,16 +1,16 @@
 [
   {
-    "Name" : "Production server",
+    "Name" : "Production server (Maintain now)",
     "URL" : "https://hutechcheckin.xyz",
-    "Default": true
+    "Default": false
   },
   {
     "Name" : "Backup server",
     "URL" : "https://opdo.vn",
-    "Default": false
+    "Default": true
   },
   {
-    "Name" : "In-dev server",
+    "Name" : "In-dev server (For developer)",
     "URL" : "https://opdo1.vn",
     "Default": false
   }
