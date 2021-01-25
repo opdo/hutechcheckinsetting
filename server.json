@@ -11,7 +11,7 @@
   },
   {
     "Name" : "In-dev server (For developer)",
-    "URL" : "https://opdo1.vn",
+    "URL" : "https://29.8.27.8",
     "Default": false
   }
 ]
