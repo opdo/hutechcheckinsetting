@@ -1,17 +1,17 @@
 [
   {
-    "Name" : "Production server",
+    "Name" : "Bảo trì",
     "URL" : "https://hutechcheckin.xyz",
     "Default": true
   },
   {
-    "Name" : "Backup server",
-    "URL" : "https://opdo.vn",
+    "Name" : "Test server",
+    "URL" : "https://hutechcheckin.com",
     "Default": false
   },
   {
     "Name" : "In-dev server (For developer)",
-    "URL" : "https://29.8.19.95",
+    "URL" : "https://192.168.11.12",
     "Default": false
   }
 ]
